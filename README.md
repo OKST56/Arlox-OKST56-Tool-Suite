@@ -8,9 +8,7 @@
 
 ## 📥 Download
 
-**Latest Version — v1.00**
-
-👉 [Download Arlox-OKST56 Tool Suite v1.00](https://drive.google.com/file/d/1bR9Vlaqsp_HJQzE5eYtnD26px0murUoA/view?usp=sharing)
+👉 [Download Latest Version](https://github.com/OKST56/Arlox-OKST56-Tool-Suite/releases/latest)
 
 > ⚠️ Extract the `.zip` before running the application.
 
