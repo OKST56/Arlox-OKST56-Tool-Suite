@@ -13,7 +13,15 @@
 > ⚠️ Extract the `.zip` before running the application.
 
 ---
+
+## Tutorials
 👉 [v1.00 Youtube Tutorial Here](https://youtu.be/OyxHa88OR8A)
+
+👉 [Arlox-OKST56 Tool Suite User Guide](https://docs.google.com/document/d/1IALn_x68wAld5RIzs9HHY3zfwbSXOrvpDCGQiOZ2hEQ/edit?usp=drive_link)
+
+👉 [OKST56 2026 Conference Realignment Guide](https://docs.google.com/document/d/1wX2EJACf_bnchh8FdI398YLMncvU7sjjTE9dePt9pC4/edit?usp=drive_link)
+
+
 ## Version History
 
 ### v1.00 — Initial Release
