@@ -4,6 +4,19 @@ All notable internal development changes for the Arlox-OKST56 Tool Suite are tra
 
 ---
 
+## v1.3.1
+
+### Hotfix
+
+- Improved support for Windows display scaling at 125% and 150%.
+- Fixed UI clipping where wide pages could extend beyond the visible right side of the app.
+- Added horizontal scrolling support to wide tool pages.
+- Updated the app to launch maximized by default.
+- Replaced several fixed-size UI behaviors with more flexible sizing.
+- Fixed missing `QSizePolicy` import after responsive layout updates.
+  
+---
+
 ## v1.3.0
 
 ### Added
