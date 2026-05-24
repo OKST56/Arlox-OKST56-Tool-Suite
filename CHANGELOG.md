@@ -74,7 +74,7 @@ See: [v1.3.0](./Release-Notes/v1.3.0.md)
 - Custom mod conference policies may need additional tuning.
 
 ### Full Notes
-See: `Release-Notes/v1.2.0.md`
+See: [v1.2.0](./Release-Notes/v1.2.0.md)
 
 ---
 
@@ -99,4 +99,4 @@ See: `Release-Notes/v1.2.0.md`
 - Schedule generation can still produce under/over scheduled teams.
 
 ### Full Notes
-See: `Release-Notes/v1.02.1.md`
+See: [v1.02.1](./Release-Notes/v1.02.1.md)
