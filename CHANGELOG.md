@@ -4,6 +4,39 @@ All notable internal development changes for the Arlox-OKST56 Tool Suite are tra
 
 ---
 
+## v1.3.0
+
+### Added
+
+- Added JSON migration support for:
+  - App settings
+  - Dynasty registry
+  - Dynasty profile files
+- Added app version tracking support in JSON files.
+- Added hidden subprocess handling for cleaner published app behavior.
+- Added timing instrumentation for Dynasty Hub and Schedule Generator workflows.
+
+### Changed
+
+- Improved Dynasty Hub startup and lazy-loading performance.
+- Improved Dynasty Central schedule loading behavior.
+- Updated Transfer Portal import workflow to import only generated output CSVs.
+- Updated published app packaging to include new Core and UI folders.
+
+### Fixed
+
+- Fixed Dynasty Central schedule viewer ghosting/repaint issues.
+- Fixed schedule card clipping behavior.
+- Fixed Week sorting in table view.
+- Fixed ranked-team alphabetical sorting behavior.
+- Improved Conference Realignment repaint stability.
+- Improved schedule refresh stability after DB writes.
+
+### Full Notes
+See: [v1.3.0](./Release-Notes/v1.3.0.md)
+
+---
+
 ## v1.2.0
 
 ### Added
